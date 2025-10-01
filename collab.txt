@@ -1,4 +1,1 @@
-First Line
-Update from teammate
-Feature X work
-Feature Y work
+Teammate update on master
